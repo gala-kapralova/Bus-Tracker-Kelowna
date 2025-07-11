@@ -1,0 +1,16 @@
+html, body, #map {
+  margin: 0;
+  padding: 0;
+  height: 99.2%;
+  background-color: rgb(226, 221, 221, 0.5);
+}
+
+footer {
+  text-align: center;
+  line-height: 1rem;  
+}
+
+p {
+  margin: 0.2rem;
+  font-size: 0.8rem;
+}
